@@ -1,4 +1,6 @@
 # Tuberculosis-Treatment-Monitoring-Data-Analysis-using-PYTHON
+**Python | Pandas | NumPy | SciPy | Matplotlib | Healthcare Analytics**
+
 This project analyzes a synthetic Tuberculosis (TB) dataset from the DOTS program using Python. The goal is to clean, integrate, and analyze healthcare data to generate statistical insights and visualizations related to TB diagnosis, treatment, and outcomes.
 
 **Project Overview**
