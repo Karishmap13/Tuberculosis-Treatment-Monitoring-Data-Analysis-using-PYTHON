@@ -1,0 +1,26 @@
+OutcomeID,PatientID,TreatmentOutcome
+O001,P001,Cure
+O002,P002,Cure
+O003,P003,Loss to follow-up
+O004,P004,Death
+O005,P005,Death
+O006,P006,Treatment failure
+O007,P007,Death
+O008,P008,Treatment failure
+O009,P009,Death
+O010,P010,Loss to follow-up
+O011,P011,Treatment failure
+O012,P012,Death
+O013,P013,Loss to follow-up
+O014,P014,Death
+O015,P015,Cure
+O016,P016,Cure
+O017,P017,Loss to follow-up
+O018,P018,Cure
+O019,P019,Cure
+O020,P020,Treatment failure
+O021,P021,Death
+O022,P022,Treatment failure
+O023,P023,Death
+O024,P024,Cure
+O025,P025,Treatment failure

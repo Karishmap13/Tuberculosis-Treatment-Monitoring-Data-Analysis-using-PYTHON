@@ -1,0 +1,26 @@
+PatientRegNumber,Name,Age,Gender,City,State
+P001,Anay Shanker,18,Other,Bengaluru,Karnataka
+P002,Nirvaan Choudhury,16,Other,Jaipur,Rajasthan
+P003,Sara Behl,,Male,Pune,Maharashtra
+,Kiara Kakar,32,Male,Delhi,Delhi
+P005,Aniruddh Batra,8,Other,Jaipur,Rajasthan
+P006,Mehul Krishnan,74,Female,Chennai,Tamil Nadu
+P007,Jhanvi Chaudhary,62,Other,Chennai,Tamil Nadu
+P008,Madhup Kapur,,Male,Kolkata,West Bengal
+P009,Zoya Virk,48,Female,Pune,Maharashtra
+,Tara Swaminathan,32,Female,Bengaluru,Karnataka
+P011,Rasha Kakar,16,Female,Delhi,Delhi
+P012,Ranbir Brahmbhatt,50,Female,Delhi,Delhi
+P013,Tarini Ganguly,38,Male,Lucknow,Uttar Pradesh
+P014,Divij Gupta,73,Male,Ahmedabad,Gujarat
+,Taimur Vaidya,15,Other,Pune,Maharashtra
+P016,Lavanya Deo,51,Other,Kolkata,West Bengal
+P017,Samiha Karpe,13,Male,Chennai,Tamil Nadu
+P018,Uthkarsh Baral,42,Male,Chennai,Tamil Nadu
+P019,Mishti Ranganathan,17,Female,Chennai,Tamil Nadu
+P020,Kashvi Char,63,Other,Kolkata,West Bengal
+P021,Azad Sahota,25,Female,Hyderabad,Telangana
+P022,Trisha Dhillon,31,Other,Hyderabad,Telangana
+P023,Mehul Verma,14,Other,Kolkata,West Bengal
+P024,Vaibhav Dewan,73,Other,Bengaluru,Karnataka
+P025,Myra Tiwari,25,Female,Chennai,Tamil Nadu
